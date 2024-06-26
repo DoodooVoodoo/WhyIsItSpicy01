@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhyIsItSpicy01
+- 👋 Hi, I’m @DoodooVoodoo
 - NOTE: I'm so confused on how Github works lol. this is fun. imma just click on stuff.....
 - 👀 I’m interested in learning how to code in general to be able to create my ideas that I have myself own my own time on my own terms. I am here to learn at my own pace and to ask questions and to meet people that know this computer language world. I am in the I.T. Industry and I'm very knowledgeable as a tech and engineer. Fixing hardware and software is no problem for me. I howver am interested in the guts of all this software I work with.
 - 🌱 I’m currently learning nothing. I am exploring reading absorbing. I do this before I dive in. I am interested in Python primarily as well as HTML, PHP, Javascript, Powershell, BASH and other languages that are commonly used.
